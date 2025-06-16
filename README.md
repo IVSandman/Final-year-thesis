@@ -6,7 +6,7 @@ There are three classes:healthy, infected with White spot disease (WSSV), and in
 
 ## Datasets and Files
 Datasets are retrieved by the NCBI databank, and all the details are in METADATA.xlsx
-Best model and other files https://huggingface.co/SandmanIV/Thesis_ShrimpAnalysis/tree/main
+,Best model and other files https://huggingface.co/SandmanIV/Thesis_ShrimpAnalysis/tree/main
 
 ## Abstract 
 Shrimp farming is a vital industry in Thailand, contributing significantly to the nation's 
