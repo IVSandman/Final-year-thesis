@@ -4,6 +4,9 @@
 This is my senior year thesis at **King Mongkut's University of Technology North Bangkok (KMUTNB)** as an robotic engineering student. This thesis compares two deep learning models, CNN (VGG-16) and RNN (LSTM), for the purpose of classify shrimp DNA sequences.
 There are three classes:healthy, infected with White spot disease (WSSV), and infected with Acute Hepatopancreatic Necrosis Disease (AHPND). These are the two crucial virus that imapcted Thailand's shrimp farmimg industry.
 
+## Datasets and Files
+Datasets are retrieved by the NCBI databank, and all the details are in METADATA.xlsx
+All Full model is in my hugging face https://huggingface.co/SandmanIV/Thesis_ShrimpAnalysis/tree/main
 
 ## Abstract 
 Shrimp farming is a vital industry in Thailand, contributing significantly to the nation's 
@@ -26,5 +29,3 @@ RNN model with K-mer encoding. CNN resulted with higher accuracy, lower loss, F-
 higher loss, F-1 score of 0.95, and average true prediction probability of 0.9942. It can be 
 concluded that CNN is the suitable model for shrimp health analysis.
 
-## Datasets and Files
-Datasets are retrieved by the NCBI databank, and all the details are in METADATA.xlsx
