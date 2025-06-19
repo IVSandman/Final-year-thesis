@@ -1,0 +1,1205 @@
+Average True Prediction Probability: 0.9996
+Number of True Predictions: 300 (100.00%)
+Number of False Predictions: 0 (0.00%)
+
+Predictions for test samples:
+Sample 1:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999262094497681, 6.42314944343525e-06, 6.731502071488649e-05]]
+Sample 2:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999984860420227, 2.4965941065602237e-06, 1.2629285265575163e-05]]
+Sample 3:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999797344207764, 2.941601906059077e-06, 1.724146568449214e-05]]
+Sample 4:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999656677246094, 3.3980691114265937e-06, 3.093196573900059e-05]]
+Sample 5:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999122619628906, 9.84302369033685e-06, 7.785734487697482e-05]]
+Sample 6:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999191761016846, 3.208360794815235e-06, 7.75830412749201e-05]]
+Sample 7:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999545812606812, 5.685407813871279e-06, 3.971191108576022e-05]]
+Sample 8:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999074935913086, 5.053242603025865e-06, 8.750773849897087e-05]]
+Sample 9:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998964071273804, 6.24770700596855e-06, 9.742339898366481e-05]]
+Sample 10:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999891519546509, 1.8908856418420328e-06, 8.976637218438555e-06]]
+Sample 11:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999346733093262, 6.063877208362101e-06, 5.921716001466848e-05]]
+Sample 12:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999732971191406, 5.688263627234846e-06, 2.093612238240894e-05]]
+Sample 13:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9994229078292847, 1.378759498038562e-05, 0.0005633015534840524]]
+Sample 14:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999988317489624, 2.285248456246336e-06, 9.367463462695014e-06]]
+Sample 15:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999384880065918, 3.3606283977860585e-06, 5.815126860397868e-05]]
+Sample 16:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999626874923706, 2.361210590606788e-06, 3.495110649964772e-05]]
+Sample 17:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999854564666748, 2.4439400476694573e-06, 1.2056414561811835e-05]]
+Sample 18:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999648332595825, 3.874703452311223e-06, 3.122840280411765e-05]]
+Sample 19:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999808073043823, 2.60658498518751e-06, 1.654109473747667e-05]]
+Sample 20:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999454021453857, 5.2036593842785805e-06, 4.938074198435061e-05]]
+Sample 21:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997714161872864, 1.027236612571869e-05, 0.0002183264004997909]]
+Sample 22:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9981808662414551, 6.0045913414796814e-05, 0.0017590136267244816]]
+Sample 23:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998328685760498, 8.009106750250794e-06, 0.00015907755005173385]]
+Sample 24:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999876022338867, 2.4087783003778895e-06, 9.998620953410864e-06]]
+Sample 25:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999849796295166, 2.2618803541263333e-06, 1.2790544133167714e-05]]
+Sample 26:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999920129776001, 1.9197509573132265e-06, 6.089190264901845e-06]]
+Sample 27:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9991331696510315, 2.6989137040800415e-05, 0.000839783635456115]]
+Sample 28:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999821186065674, 2.46634363065823e-06, 1.537616662972141e-05]]
+Sample 29:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999470710754395, 5.083512860437622e-06, 4.7840909246588126e-05]]
+Sample 30:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999581575393677, 5.258261353446869e-06, 3.656492481241003e-05]]
+Sample 31:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998929500579834, 6.333514193102019e-06, 0.00010068388655781746]]
+Sample 32:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999823570251465, 2.5165047645714367e-06, 1.5155999790295027e-05]]
+Sample 33:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999745786190033, 8.008715667529032e-06, 0.00024618886527605355]]
+Sample 34:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999760389328003, 3.8146386032167356e-06, 2.0157913240836933e-05]]
+Sample 35:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999661445617676, 2.9312006972759264e-06, 3.082620241912082e-05]]
+Sample 36:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999805748462677, 6.272368864301825e-06, 0.00018793594790622592]]
+Sample 37:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999691247940063, 4.307218205212848e-06, 2.6547128072706982e-05]]
+Sample 38:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998433589935303, 9.289513400290161e-06, 0.00014732711133547127]]
+Sample 39:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999868869781494, 1.6079153510872857e-06, 1.1523378816491459e-05]]
+Sample 40:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998094439506531, 9.192242032440845e-06, 0.00018134275160264224]]
+Sample 41:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999210834503174, 7.761838787700981e-06, 7.11532702553086e-05]]
+Sample 42:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999847412109375, 3.131161520286696e-06, 1.2147917914262507e-05]]
+Sample 43:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999399185180664, 6.739260697941063e-06, 5.324149606167339e-05]]
+Sample 44:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998420476913452, 9.539325219520833e-06, 0.00014838458446320146]]
+Sample 45:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998950958251953, 4.037624421471264e-06, 0.00010083505912916735]]
+Sample 46:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997801184654236, 5.275848252495052e-06, 0.00021462756558321416]]
+Sample 47:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999444484710693, 5.436714673123788e-06, 5.0010923587251455e-05]]
+Sample 48:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999191761016846, 2.7845599106512964e-06, 7.808021473465487e-05]]
+Sample 49:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998457431793213, 7.756399099889677e-06, 0.0001464934175601229]]
+Sample 50:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999915599822998, 3.6441581414692337e-06, 8.073919889284298e-05]]
+Sample 51:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999761581420898, 2.7118496745970333e-06, 2.1141680917935446e-05]]
+Sample 52:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999966025352478, 4.158572664891835e-06, 2.979128112201579e-05]]
+Sample 53:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999430179595947, 7.328954325203085e-06, 4.974272451363504e-05]]
+Sample 54:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999606609344482, 8.350103598786518e-06, 3.103789276792668e-05]]
+Sample 55:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998681545257568, 7.81846756581217e-06, 0.00012394112127367407]]
+Sample 56:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999915361404419, 2.207158559031086e-06, 6.1522750911535695e-06]]
+Sample 57:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9994996786117554, 1.4372953046404291e-05, 0.0004859330947510898]]
+Sample 58:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999786615371704, 1.8787810631692992e-06, 1.945666372193955e-05]]
+Sample 59:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999873638153076, 2.0390227746247547e-06, 1.0658425708243158e-05]]
+Sample 60:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997549653053284, 8.664604138175491e-06, 0.00023631236399523914]]
+Sample 61:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999282360076904, 4.381820872367825e-06, 6.737437070114538e-05]]
+Sample 62:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999688863754272, 4.891069693258032e-06, 2.620447958179284e-05]]
+Sample 63:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999761581420898, 2.7118496745970333e-06, 2.1141680917935446e-05]]
+Sample 64:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999638795852661, 3.9526744330942165e-06, 3.223755629733205e-05]]
+Sample 65:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999964714050293, 5.8903715398628265e-06, 2.9474560506059788e-05]]
+Sample 66:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999775886535645, 3.537301381584257e-06, 1.88705471373396e-05]]
+Sample 67:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999762773513794, 3.5506200219970196e-06, 2.015193967963569e-05]]
+Sample 68:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9745434522628784, 0.0005795181496068835, 0.02487705647945404]]
+Sample 69:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997974038124084, 7.030679626041092e-06, 0.0001955459447344765]]
+Sample 70:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999191761016846, 3.208360794815235e-06, 7.75830412749201e-05]]
+Sample 71:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998947381973267, 6.6134357439295854e-06, 9.874851821223274e-05]]
+Sample 72:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999847412109375, 2.463959390297532e-06, 1.276986859011231e-05]]
+Sample 73:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999644756317139, 3.6587500744644785e-06, 3.181225838488899e-05]]
+Sample 74:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999140501022339, 6.5208728301513474e-06, 7.943087257444859e-05]]
+Sample 75:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999501705169678, 3.1695503821538296e-06, 4.660113336285576e-05]]
+Sample 76:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998236298561096, 8.307642019644845e-06, 0.00016804265032988042]]
+Sample 77:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999029636383057, 5.232878720562439e-06, 9.17780416784808e-05]]
+Sample 78:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.99996018409729, 3.6216099488228792e-06, 3.6210421967552975e-05]]
+Sample 79:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999802112579346, 2.389655264778412e-06, 1.7370586647302844e-05]]
+Sample 80:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9995810389518738, 1.288178282266017e-05, 0.0004061181389261037]]
+Sample 81:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999749660491943, 1.7057660670616315e-06, 2.3321430489886552e-05]]
+Sample 82:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997205138206482, 8.068369425018318e-06, 0.0002714113215915859]]
+Sample 83:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9978390336036682, 3.458569699432701e-05, 0.0021263854578137398]]
+Sample 84:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999705970287323, 1.9478869944578037e-05, 0.00027459015836939216]]
+Sample 85:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999145269393921, 3.1333311198977754e-06, 8.238504233304411e-05]]
+Sample 86:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997758269309998, 1.2622888789337594e-05, 0.0002115493844030425]]
+Sample 87:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997414946556091, 1.3688288163393736e-05, 0.00024477727129124105]]
+Sample 88:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9998014569282532, 1.4363586160470732e-05, 0.00018419120169710368]]
+Sample 89:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.999962329864502, 4.003245066996897e-06, 3.357490641064942e-05]]
+Sample 90:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999853372573853, 2.2181936856213724e-06, 1.2440832506399602e-05]]
+Sample 91:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999852180480957, 2.22939092964225e-06, 1.2550322026072536e-05]]
+Sample 92:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999786615371704, 1.8787810631692992e-06, 1.945666372193955e-05]]
+Sample 93:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.998473584651947, 2.7955691621173173e-05, 0.001498378231190145]]
+Sample 94:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9997201561927795, 8.496428563375957e-06, 0.00027142316685058177]]
+Sample 95:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999346733093262, 6.063877208362101e-06, 5.921716001466848e-05]]
+Sample 96:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999544620513916, 2.894683348131366e-06, 4.270700810593553e-05]]
+Sample 97:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999504089355469, 4.604006335284794e-06, 4.492281732382253e-05]]
+Sample 98:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999101161956787, 3.3170263122883625e-06, 8.652864926261827e-05]]
+Sample 99:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999793767929077, 4.133631591685116e-06, 1.640877962927334e-05]]
+Sample 100:
+  - True Label: healthy (0)
+  - Predicted Class: healthy (0)
+  - Probabilities: [[0.9999657869338989, 3.989397555415053e-06, 3.0268673071986996e-05]]
+Sample 101:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0003625413228292018, 4.7876592361717485e-06, 0.999632716178894]]
+Sample 102:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0003725365677382797, 6.42394479655195e-06, 0.9996210336685181]]
+Sample 103:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0019136065384373069, 7.500497758883284e-06, 0.9980789422988892]]
+Sample 104:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0036065359599888325, 8.823205462249462e-06, 0.9963846206665039]]
+Sample 105:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0002738124458119273, 4.03435433327104e-06, 0.9997220635414124]]
+Sample 106:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0004898119950667024, 9.310513632954098e-06, 0.9995008707046509]]
+Sample 107:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0016159721417352557, 1.0003634088207036e-05, 0.9983739852905273]]
+Sample 108:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.000999106210656464, 4.548671313386876e-06, 0.9989963173866272]]
+Sample 109:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.000713778892531991, 9.268122994399164e-06, 0.9992769360542297]]
+Sample 110:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008900644606910646, 8.031664947338868e-06, 0.999101996421814]]
+Sample 111:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0021799581591039896, 1.1648722647805698e-05, 0.9978083968162537]]
+Sample 112:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00019568420248106122, 7.752585588605143e-06, 0.9997965693473816]]
+Sample 113:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[9.374950604978949e-05, 6.1857276705268305e-06, 0.9998999834060669]]
+Sample 114:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0007434178842231631, 9.250964467355516e-06, 0.9992473125457764]]
+Sample 115:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.003376012435182929, 7.591200755996397e-06, 0.9966164231300354]]
+Sample 116:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[4.396610165713355e-05, 6.987798315094551e-06, 0.9999489784240723]]
+Sample 117:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[3.577335155569017e-05, 5.655665972881252e-06, 0.9999586343765259]]
+Sample 118:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[5.2474009862635285e-05, 7.9996707427199e-06, 0.9999395608901978]]
+Sample 119:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00018568754603620619, 8.098973921732977e-06, 0.9998062252998352]]
+Sample 120:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0007497469778172672, 7.337700026255334e-06, 0.999242901802063]]
+Sample 121:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.002366179833188653, 1.0557242603681516e-05, 0.9976232647895813]]
+Sample 122:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.000491701066493988, 7.072578227962367e-06, 0.9995012283325195]]
+Sample 123:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0010391926625743508, 6.203462817211403e-06, 0.9989545345306396]]
+Sample 124:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0011799730127677321, 6.579932687600376e-06, 0.9988135099411011]]
+Sample 125:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.006554844789206982, 2.0116587620577775e-05, 0.9934250116348267]]
+Sample 126:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[2.8198148356750607e-05, 4.894592166237999e-06, 0.9999668598175049]]
+Sample 127:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0010407689260318875, 1.1113487744296435e-05, 0.9989481568336487]]
+Sample 128:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008380173821933568, 9.869950190477539e-06, 0.9991520643234253]]
+Sample 129:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[4.153308691456914e-05, 5.652743311657105e-06, 0.9999529123306274]]
+Sample 130:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0015318297082558274, 9.67835421761265e-06, 0.9984585046768188]]
+Sample 131:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.004395544994622469, 1.5494828403461725e-05, 0.9955888986587524]]
+Sample 132:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.002151355380192399, 1.1870476555486675e-05, 0.9978367686271667]]
+Sample 133:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00410300912335515, 1.9383063772693276e-05, 0.9958776235580444]]
+Sample 134:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0019998850766569376, 7.158469998103101e-06, 0.997992992401123]]
+Sample 135:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00016708830662537366, 6.451932222262258e-06, 0.9998264908790588]]
+Sample 136:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0024573008995503187, 9.201455213769805e-06, 0.9975335597991943]]
+Sample 137:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0011910239700227976, 9.115851753449533e-06, 0.9987998008728027]]
+Sample 138:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0019949637353420258, 7.281573289219523e-06, 0.9979977011680603]]
+Sample 139:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008370626019313931, 5.433999831438996e-06, 0.9991574287414551]]
+Sample 140:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.013781087473034859, 2.3955348297022283e-05, 0.9861949682235718]]
+Sample 141:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0004796939028892666, 4.455191628949251e-06, 0.9995158910751343]]
+Sample 142:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.005289135035127401, 1.093239916372113e-05, 0.9946999549865723]]
+Sample 143:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00035266668419353664, 8.487024388159625e-06, 0.9996389150619507]]
+Sample 144:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00021313982142601162, 5.553441951633431e-06, 0.9997813105583191]]
+Sample 145:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0009627188555896282, 1.0403011401649565e-05, 0.999026894569397]]
+Sample 146:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0020275022834539413, 9.83659083431121e-06, 0.9979625940322876]]
+Sample 147:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0006755125941708684, 1.0064268280984834e-05, 0.999314546585083]]
+Sample 148:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[3.3868709579110146e-05, 4.019433617941104e-06, 0.9999620914459229]]
+Sample 149:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.001605397555977106, 7.881256351538468e-06, 0.9983867406845093]]
+Sample 150:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00044934378820471466, 6.017472969688242e-06, 0.9995445609092712]]
+Sample 151:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0006157988682389259, 5.811866230942542e-06, 0.9993783235549927]]
+Sample 152:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0028516817837953568, 8.92832667886978e-06, 0.9971394538879395]]
+Sample 153:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0009350781911052763, 7.4142067205684725e-06, 0.9990575909614563]]
+Sample 154:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[8.88603026396595e-05, 4.29627198172966e-06, 0.9999068975448608]]
+Sample 155:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[3.081252725678496e-05, 4.342232386989053e-06, 0.9999649524688721]]
+Sample 156:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.001013569999486208, 9.14055090106558e-06, 0.9989773035049438]]
+Sample 157:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0013596916105598211, 9.364690413349308e-06, 0.9986308217048645]]
+Sample 158:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[4.1755414713406935e-05, 8.282894668809604e-06, 0.9999500513076782]]
+Sample 159:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0004988918663002551, 4.870037628279533e-06, 0.9994962215423584]]
+Sample 160:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0010097930207848549, 8.311136298289057e-06, 0.9989818930625916]]
+Sample 161:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[3.8983667764114216e-05, 6.068460606911685e-06, 0.9999549388885498]]
+Sample 162:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0009584475192241371, 8.469141903333366e-06, 0.9990330934524536]]
+Sample 163:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0010851891711354256, 1.0757874406408519e-05, 0.9989041090011597]]
+Sample 164:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[4.955661279382184e-05, 7.049304258543998e-06, 0.9999433755874634]]
+Sample 165:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00012400661944411695, 4.0198838178184815e-06, 0.9998719692230225]]
+Sample 166:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[7.880335033405572e-05, 5.244868134468561e-06, 0.9999159574508667]]
+Sample 167:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0007966759731061757, 5.362076990422793e-06, 0.9991980195045471]]
+Sample 168:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.003690723329782486, 1.3410363862931263e-05, 0.9962958693504333]]
+Sample 169:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0004804229538422078, 6.104157364461571e-06, 0.9995135068893433]]
+Sample 170:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008379005012102425, 1.0291997568856459e-05, 0.9991518259048462]]
+Sample 171:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0053591737523674965, 1.3922341167926788e-05, 0.9946269392967224]]
+Sample 172:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[3.6183766496833414e-05, 8.43166526465211e-06, 0.9999552965164185]]
+Sample 173:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0005226162611506879, 8.126367902150378e-06, 0.9994693398475647]]
+Sample 174:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00037119322223588824, 4.26012638854445e-06, 0.999624490737915]]
+Sample 175:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00014353723963722587, 8.101817911665421e-06, 0.9998483657836914]]
+Sample 176:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0023780472110956907, 1.2190541383461095e-05, 0.9976097345352173]]
+Sample 177:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008877157815732062, 7.164773251133738e-06, 0.9991051554679871]]
+Sample 178:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0012260221410542727, 5.353856977308169e-06, 0.9987686276435852]]
+Sample 179:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0002977143449243158, 7.348766303039156e-06, 0.9996949434280396]]
+Sample 180:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0011649159714579582, 8.233454536821228e-06, 0.998826801776886]]
+Sample 181:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00014894225751049817, 7.675145752727985e-06, 0.9998433589935303]]
+Sample 182:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008842073148116469, 5.768840310338419e-06, 0.9991100430488586]]
+Sample 183:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0011118719121441245, 7.2880511652329005e-06, 0.9988808035850525]]
+Sample 184:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[9.736225911183283e-05, 5.5048071772034746e-06, 0.9998971223831177]]
+Sample 185:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00031659597880207, 4.578588686854346e-06, 0.9996788501739502]]
+Sample 186:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[2.6858524506678805e-05, 5.66348808206385e-06, 0.9999674558639526]]
+Sample 187:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0007768392097204924, 6.969371497689281e-06, 0.9992160797119141]]
+Sample 188:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0028033042326569557, 1.1459806955826934e-05, 0.9971852898597717]]
+Sample 189:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.001029370236210525, 7.2495481617806945e-06, 0.9989633560180664]]
+Sample 190:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0010845224605873227, 6.419026249204762e-06, 0.9989089965820312]]
+Sample 191:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0007864261860959232, 8.708916539035272e-06, 0.9992049336433411]]
+Sample 192:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0005522136925719678, 6.4086075326486025e-06, 0.9994413256645203]]
+Sample 193:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0008842073148116469, 5.768840310338419e-06, 0.9991100430488586]]
+Sample 194:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0005945506854914129, 5.846948170074029e-06, 0.9993996620178223]]
+Sample 195:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[8.877704385668039e-05, 3.2634825402055867e-06, 0.9999079704284668]]
+Sample 196:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.00226902449503541, 9.782233064470347e-06, 0.997721254825592]]
+Sample 197:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[2.8387315978761762e-05, 5.883741323486902e-06, 0.9999657869338989]]
+Sample 198:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0006420484278351068, 6.9386233008117415e-06, 0.9993510842323303]]
+Sample 199:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0030090182553976774, 7.765916052449029e-06, 0.9969832301139832]]
+Sample 200:
+  - True Label: AHPND (2)
+  - Predicted Class: AHPND (2)
+  - Probabilities: [[0.0011591835645958781, 1.178763068310218e-05, 0.9988290667533875]]
+Sample 201:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.622117219492793e-05, 0.999962329864502, 1.4874958651489578e-06]]
+Sample 202:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8877680961159058e-05, 0.9999700784683228, 1.058573616319336e-06]]
+Sample 203:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.4610307668335736e-05, 0.9999542236328125, 1.1721738246706082e-06]]
+Sample 204:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.686704283405561e-05, 0.9999717473983765, 1.3502892670658184e-06]]
+Sample 205:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.1500483348499984e-05, 0.9999572038650513, 1.2464930705391453e-06]]
+Sample 206:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9437422199407592e-05, 0.9999693632125854, 1.1569353546292405e-06]]
+Sample 207:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.37484416377265e-05, 0.9999648332595825, 1.448896000511013e-06]]
+Sample 208:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.133438076474704e-05, 0.9999672174453735, 1.4217074522093753e-06]]
+Sample 209:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.224308602511883e-05, 0.9999666213989258, 1.076571834346396e-06]]
+Sample 210:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.81793181784451e-05, 0.9999701976776123, 1.6142138292707386e-06]]
+Sample 211:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.3137712054885924e-05, 0.999955415725708, 1.4106834669291857e-06]]
+Sample 212:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.0053433874854818e-05, 0.9999686479568481, 1.2815700074497727e-06]]
+Sample 213:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.348661968833767e-05, 0.9999552965164185, 1.187238240163424e-06]]
+Sample 214:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.822092912741937e-05, 0.9999603033065796, 1.5177092791418545e-06]]
+Sample 215:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.4598459023982286e-05, 0.9999641180038452, 1.306312469750992e-06]]
+Sample 216:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.0478258850052953e-05, 0.9999681711196899, 1.3767156588073703e-06]]
+Sample 217:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.953932173317298e-05, 0.9999592304229736, 1.2249546443854342e-06]]
+Sample 218:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.133438076474704e-05, 0.9999672174453735, 1.4217074522093753e-06]]
+Sample 219:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.0507289668312296e-05, 0.9999583959579468, 1.1241481843171641e-06]]
+Sample 220:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.6601184799801558e-05, 0.9999719858169556, 1.372663405163621e-06]]
+Sample 221:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.109598012291826e-05, 0.9999575614929199, 1.313414259129786e-06]]
+Sample 222:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.5012361220433377e-05, 0.9999736547470093, 1.3586286513600498e-06]]
+Sample 223:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.8402038373751566e-05, 0.9999501705169678, 1.4163580317472224e-06]]
+Sample 224:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.650045255199075e-05, 0.9999604225158691, 3.0624473765783478e-06]]
+Sample 225:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.6811210773303173e-05, 0.9999723434448242, 8.919316201172478e-07]]
+Sample 226:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.613304604892619e-05, 0.9999724626541138, 1.3487973546943977e-06]]
+Sample 227:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.4319498556433246e-05, 0.999954342842102, 1.3687279079022119e-06]]
+Sample 228:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.7296950065647252e-05, 0.9999713897705078, 1.2571765637403587e-06]]
+Sample 229:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.670794467325322e-05, 0.9999622106552124, 1.1350338127158466e-06]]
+Sample 230:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9174623705330305e-05, 0.9999693632125854, 1.5124592209758703e-06]]
+Sample 231:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[5.95519995840732e-05, 0.9999388456344604, 1.611257857803139e-06]]
+Sample 232:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.4596565708634444e-05, 0.9999741315841675, 1.2436262295523193e-06]]
+Sample 233:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.868218456977047e-05, 0.9999498128890991, 1.4745735370524926e-06]]
+Sample 234:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.3265256206505e-05, 0.9999637603759766, 2.973499704239657e-06]]
+Sample 235:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.6817847760394216e-05, 0.9999520778656006, 1.0822590184034198e-06]]
+Sample 236:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.931677929358557e-05, 0.9999576807022095, 2.9523291686928133e-06]]
+Sample 237:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.879490395775065e-05, 0.9999600648880005, 1.1136427247038228e-06]]
+Sample 238:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.7120684535475448e-05, 0.9999715089797974, 1.3392699429459753e-06]]
+Sample 239:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.622117219492793e-05, 0.999962329864502, 1.4874958651489578e-06]]
+Sample 240:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8877680961159058e-05, 0.9999700784683228, 1.058573616319336e-06]]
+Sample 241:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.43744941346813e-05, 0.9999643564224243, 1.2212772162456531e-06]]
+Sample 242:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8426124117686413e-05, 0.9999700784683228, 1.5033862155178213e-06]]
+Sample 243:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.346175071783364e-05, 0.9999653100967407, 1.2628513559320709e-06]]
+Sample 244:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8426124117686413e-05, 0.9999700784683228, 1.5033862155178213e-06]]
+Sample 245:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.7288435123628005e-05, 0.9999614953994751, 1.1615628636718611e-06]]
+Sample 246:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.423645466682501e-05, 0.9999641180038452, 1.6147166661539814e-06]]
+Sample 247:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9630973585881293e-05, 0.9999692440032959, 1.11327710783371e-06]]
+Sample 248:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9512468245229684e-05, 0.9999691247940063, 1.41492807870236e-06]]
+Sample 249:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.8402038373751566e-05, 0.9999501705169678, 1.4163580317472224e-06]]
+Sample 250:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.650045255199075e-05, 0.9999604225158691, 3.0624473765783478e-06]]
+Sample 251:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[5.531785427592695e-05, 0.9999427795410156, 1.8807286323863082e-06]]
+Sample 252:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.779801798169501e-05, 0.9999707937240601, 1.3865976598026464e-06]]
+Sample 253:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.151034590904601e-05, 0.9999574422836304, 1.070972871275444e-06]]
+Sample 254:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.779801798169501e-05, 0.9999707937240601, 1.3865976598026464e-06]]
+Sample 255:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.2698393624741584e-05, 0.9999661445617676, 1.1713027561199851e-06]]
+Sample 256:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.014806679857429e-05, 0.9999682903289795, 1.5535160855506547e-06]]
+Sample 257:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.3612137485761195e-05, 0.9999653100967407, 1.1340105174895143e-06]]
+Sample 258:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.883989847963676e-05, 0.9999586343765259, 2.4756598122621654e-06]]
+Sample 259:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.111939779249951e-05, 0.9999579191207886, 9.546496357870637e-07]]
+Sample 260:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.9907696191221476e-05, 0.9999572038650513, 2.856727633115952e-06]]
+Sample 261:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.3137712054885924e-05, 0.999955415725708, 1.4106834669291857e-06]]
+Sample 262:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.0053433874854818e-05, 0.9999686479568481, 1.2815700074497727e-06]]
+Sample 263:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.119620280107483e-05, 0.9999576807022095, 1.0711927416195977e-06]]
+Sample 264:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.339670001878403e-05, 0.9999648332595825, 1.7862391814560397e-06]]
+Sample 265:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.868218456977047e-05, 0.9999498128890991, 1.4745735370524926e-06]]
+Sample 266:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.3265256206505e-05, 0.9999637603759766, 2.973499704239657e-06]]
+Sample 267:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.420739060151391e-05, 0.9999545812606812, 1.2481775684136664e-06]]
+Sample 268:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.5817076422972605e-05, 0.9999613761901855, 2.764804548860411e-06]]
+Sample 269:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.868218456977047e-05, 0.9999498128890991, 1.4745735370524926e-06]]
+Sample 270:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.3671654819045216e-05, 0.9999635219573975, 2.8087947612220887e-06]]
+Sample 271:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.346175071783364e-05, 0.9999653100967407, 1.2628513559320709e-06]]
+Sample 272:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9528961022151634e-05, 0.9999690055847168, 1.4984491372160846e-06]]
+Sample 273:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.1947478419169784e-05, 0.9999668598175049, 1.2148703945058514e-06]]
+Sample 274:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9174623705330305e-05, 0.9999693632125854, 1.5124592209758703e-06]]
+Sample 275:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.358013418619521e-05, 0.9999654293060303, 1.0489634405530524e-06]]
+Sample 276:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8426124117686413e-05, 0.9999700784683228, 1.5033862155178213e-06]]
+Sample 277:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.862933226628229e-05, 0.9999603033065796, 1.107916318687785e-06]]
+Sample 278:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.014806679857429e-05, 0.9999682903289795, 1.5535160855506547e-06]]
+Sample 279:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.875520997098647e-05, 0.9999597072601318, 1.5737799685666687e-06]]
+Sample 280:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.744913763308432e-05, 0.9999712705612183, 1.3091765822537127e-06]]
+Sample 281:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.889371353376191e-05, 0.9999700784683228, 1.0367198228777852e-06]]
+Sample 282:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8426124117686413e-05, 0.9999700784683228, 1.5033862155178213e-06]]
+Sample 283:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.372440914972685e-05, 0.9999649524688721, 1.373299255646998e-06]]
+Sample 284:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8342370569589548e-05, 0.9999700784683228, 1.5365169474534923e-06]]
+Sample 285:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.4609507565619424e-05, 0.9999639987945557, 1.3777488447885844e-06]]
+Sample 286:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.0434483051067218e-05, 0.9999680519104004, 1.5313324865928735e-06]]
+Sample 287:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.757812348543666e-05, 0.9999512434005737, 1.1939723663090263e-06]]
+Sample 288:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.07087684632279e-05, 0.9999679327011108, 1.337371145382349e-06]]
+Sample 289:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.9438573619700037e-05, 0.9999693632125854, 1.178267325485649e-06]]
+Sample 290:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.6862864615395665e-05, 0.9999716281890869, 1.4858111399007612e-06]]
+Sample 291:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.346175071783364e-05, 0.9999653100967407, 1.2628513559320709e-06]]
+Sample 292:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.779801798169501e-05, 0.9999707937240601, 1.3865976598026464e-06]]
+Sample 293:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.875520997098647e-05, 0.9999597072601318, 1.5737799685666687e-06]]
+Sample 294:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.744913763308432e-05, 0.9999712705612183, 1.3091765822537127e-06]]
+Sample 295:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.4275391701376066e-05, 0.999954342842102, 1.3397043403529096e-06]]
+Sample 296:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.264245970058255e-05, 0.9999659061431885, 1.4519130218104692e-06]]
+Sample 297:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[3.622117219492793e-05, 0.999962329864502, 1.4874958651489578e-06]]
+Sample 298:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.8877680961159058e-05, 0.9999700784683228, 1.058573616319336e-06]]
+Sample 299:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[4.4275391701376066e-05, 0.999954342842102, 1.3397043403529096e-06]]
+Sample 300:
+  - True Label: WSSV (1)
+  - Predicted Class: WSSV (1)
+  - Probabilities: [[2.7120684535475448e-05, 0.9999715089797974, 1.3392699429459753e-06]]

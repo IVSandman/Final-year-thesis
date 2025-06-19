@@ -1,0 +1,64 @@
+File: /home/user/torch_shrimp/until-tools/mod/Shrimp_V1_5.npz
+Running date: 28-01-25
+Hyperparameters:
+ - Number of epochs: 20
+ - Checkpoint interval: 2
+ - Learning rate: 0.0001
+ - Batch size: 32
+ - Test size: 0.2
+ - Validation size: 0.2
+ - Number of classes: 3
+Optimizer:
+ - Optimizer Type: SGD
+ - Learning Rate: 0.0001
+ - Momentum: 0.9
+ - Weight Decay: 0.001
+Log directory: /home/user/torch_shrimp/until-tools/mod/vgg16_mod/file_tunning/tune_14/tune14_b10
+Epoch 1 | train_loss = 0.9493, train_acc = 0.7852, val_loss = 0.3998, val_acc = 0.9847, test_loss = 0.4006, test_acc = 0.9877
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9643    0.9885    0.9763       957
+           1     1.0000    1.0000    1.0000      1038
+           2     0.9888    0.9652    0.9768      1005
+
+    accuracy                         0.9847      3000
+   macro avg     0.9844    0.9846    0.9844      3000
+weighted avg     0.9849    0.9847    0.9847      3000
+
+Epoch 2 | train_loss = 0.0781, train_acc = 0.9918, val_loss = 0.0070, val_acc = 0.9990, test_loss = 0.0087, test_acc = 0.9983
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9969    0.9984       957
+           1     1.0000    1.0000    1.0000      1038
+           2     0.9970    1.0000    0.9985      1005
+
+    accuracy                         0.9990      3000
+   macro avg     0.9990    0.9990    0.9990      3000
+weighted avg     0.9990    0.9990    0.9990      3000
+
+Epoch 3 | train_loss = 0.0050, train_acc = 0.9989, val_loss = 0.0027, val_acc = 0.9993, test_loss = 0.0034, test_acc = 0.9990
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9979    0.9990       957
+           1     1.0000    1.0000    1.0000      1038
+           2     0.9980    1.0000    0.9990      1005
+
+    accuracy                         0.9993      3000
+   macro avg     0.9993    0.9993    0.9993      3000
+weighted avg     0.9993    0.9993    0.9993      3000
+
+Epoch 4 | train_loss = 0.0020, train_acc = 0.9998, val_loss = 0.0021, val_acc = 0.9993, test_loss = 0.0029, test_acc = 0.9990
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9979    0.9990       957
+           1     1.0000    1.0000    1.0000      1038
+           2     0.9980    1.0000    0.9990      1005
+
+    accuracy                         0.9993      3000
+   macro avg     0.9993    0.9993    0.9993      3000
+weighted avg     0.9993    0.9993    0.9993      3000
+

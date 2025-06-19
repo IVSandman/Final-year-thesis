@@ -1,0 +1,154 @@
+2025-02-11 09:27:59,629 - Hyperparameters:
+2025-02-11 09:27:59,629 - {
+    "embedding_dim": 128,
+    "hidden_dim1": 64,
+    "hidden_dim2": 32,
+    "dense_units": 64,
+    "num_classes": 3,
+    "learning_rate": 0.001,
+    "num_epochs": 500,
+    "batch_size": 32,
+    "train_size": 0.8,
+    "val_size": 0.1,
+    "file_path": "/home/user/torch_shrimp/until-tools/mod/k-mer/dataset/train200.csv",
+    "patience": 50
+}
+2025-02-11 09:27:59,940 - Epoch [1/500] - Train Loss: 1.0988, Train Acc: 34.17%, Val Loss: 1.1014, Val Acc: 30.00%, Test Loss: 1.1020, Test Acc: 21.67%
+2025-02-11 09:28:00,185 - Epoch [2/500] - Train Loss: 1.0976, Train Acc: 35.83%, Val Loss: 1.1013, Val Acc: 30.00%, Test Loss: 1.1024, Test Acc: 21.67%
+2025-02-11 09:28:00,454 - Epoch [3/500] - Train Loss: 1.0980, Train Acc: 34.79%, Val Loss: 1.1017, Val Acc: 30.00%, Test Loss: 1.1028, Test Acc: 21.67%
+2025-02-11 09:28:00,772 - Epoch [4/500] - Train Loss: 1.0975, Train Acc: 36.46%, Val Loss: 1.1009, Val Acc: 30.00%, Test Loss: 1.1032, Test Acc: 21.67%
+2025-02-11 09:28:01,269 - Epoch [5/500] - Train Loss: 1.0969, Train Acc: 35.62%, Val Loss: 1.0992, Val Acc: 30.00%, Test Loss: 1.1019, Test Acc: 21.67%
+2025-02-11 09:28:01,765 - Epoch [6/500] - Train Loss: 1.0924, Train Acc: 37.71%, Val Loss: 1.0914, Val Acc: 30.00%, Test Loss: 1.0972, Test Acc: 21.67%
+2025-02-11 09:28:02,221 - Epoch [7/500] - Train Loss: 1.0694, Train Acc: 38.33%, Val Loss: 1.0494, Val Acc: 56.67%, Test Loss: 1.0488, Test Acc: 61.67%
+2025-02-11 09:28:02,584 - Epoch [8/500] - Train Loss: 0.9834, Train Acc: 64.79%, Val Loss: 0.9496, Val Acc: 55.00%, Test Loss: 0.9379, Test Acc: 66.67%
+2025-02-11 09:28:02,985 - Epoch [9/500] - Train Loss: 0.8704, Train Acc: 68.75%, Val Loss: 0.8498, Val Acc: 65.00%, Test Loss: 0.8185, Test Acc: 78.33%
+2025-02-11 09:28:03,447 - Epoch [10/500] - Train Loss: 0.7816, Train Acc: 79.79%, Val Loss: 0.7273, Val Acc: 88.33%, Test Loss: 0.7197, Test Acc: 86.67%
+2025-02-11 09:28:03,827 - Epoch [11/500] - Train Loss: 0.7136, Train Acc: 87.92%, Val Loss: 0.7466, Val Acc: 81.67%, Test Loss: 0.7463, Test Acc: 81.67%
+2025-02-11 09:28:04,217 - Epoch [12/500] - Train Loss: 0.6872, Train Acc: 88.12%, Val Loss: 0.6758, Val Acc: 86.67%, Test Loss: 0.6824, Test Acc: 85.00%
+2025-02-11 09:28:04,640 - Epoch [13/500] - Train Loss: 0.6749, Train Acc: 88.75%, Val Loss: 0.6328, Val Acc: 91.67%, Test Loss: 0.6302, Test Acc: 91.67%
+2025-02-11 09:28:05,058 - Epoch [14/500] - Train Loss: 0.6501, Train Acc: 90.83%, Val Loss: 0.6291, Val Acc: 93.33%, Test Loss: 0.6107, Test Acc: 95.00%
+2025-02-11 09:28:05,574 - Epoch [15/500] - Train Loss: 0.6451, Train Acc: 91.46%, Val Loss: 0.6447, Val Acc: 88.33%, Test Loss: 0.6528, Test Acc: 86.67%
+2025-02-11 09:28:06,146 - Epoch [16/500] - Train Loss: 0.6502, Train Acc: 90.42%, Val Loss: 0.6278, Val Acc: 90.00%, Test Loss: 0.6384, Test Acc: 91.67%
+2025-02-11 09:28:06,640 - Epoch [17/500] - Train Loss: 0.6377, Train Acc: 91.67%, Val Loss: 0.6141, Val Acc: 95.00%, Test Loss: 0.6021, Test Acc: 95.00%
+2025-02-11 09:28:07,223 - Epoch [18/500] - Train Loss: 0.6314, Train Acc: 92.50%, Val Loss: 0.6127, Val Acc: 95.00%, Test Loss: 0.5995, Test Acc: 96.67%
+2025-02-11 09:28:07,696 - Epoch [19/500] - Train Loss: 0.6260, Train Acc: 92.71%, Val Loss: 0.6138, Val Acc: 93.33%, Test Loss: 0.6114, Test Acc: 95.00%
+2025-02-11 09:28:08,230 - Epoch [20/500] - Train Loss: 0.6217, Train Acc: 93.96%, Val Loss: 0.6138, Val Acc: 95.00%, Test Loss: 0.5984, Test Acc: 95.00%
+2025-02-11 09:28:08,656 - Epoch [21/500] - Train Loss: 0.6219, Train Acc: 93.54%, Val Loss: 0.6389, Val Acc: 91.67%, Test Loss: 0.6380, Test Acc: 90.00%
+2025-02-11 09:28:09,168 - Epoch [22/500] - Train Loss: 0.6263, Train Acc: 92.29%, Val Loss: 0.6271, Val Acc: 91.67%, Test Loss: 0.5897, Test Acc: 96.67%
+2025-02-11 09:28:09,513 - Epoch [23/500] - Train Loss: 0.6518, Train Acc: 89.38%, Val Loss: 0.6449, Val Acc: 90.00%, Test Loss: 0.6646, Test Acc: 88.33%
+2025-02-11 09:28:09,800 - Epoch [24/500] - Train Loss: 0.6405, Train Acc: 91.67%, Val Loss: 0.6233, Val Acc: 93.33%, Test Loss: 0.6199, Test Acc: 91.67%
+2025-02-11 09:28:10,243 - Epoch [25/500] - Train Loss: 0.6151, Train Acc: 93.33%, Val Loss: 0.6093, Val Acc: 95.00%, Test Loss: 0.5885, Test Acc: 96.67%
+2025-02-11 09:28:10,705 - Epoch [26/500] - Train Loss: 0.6130, Train Acc: 93.96%, Val Loss: 0.6088, Val Acc: 93.33%, Test Loss: 0.5886, Test Acc: 96.67%
+2025-02-11 09:28:11,060 - Epoch [27/500] - Train Loss: 0.6072, Train Acc: 93.96%, Val Loss: 0.6173, Val Acc: 93.33%, Test Loss: 0.5975, Test Acc: 96.67%
+2025-02-11 09:28:11,242 - Epoch [28/500] - Train Loss: 0.6044, Train Acc: 94.79%, Val Loss: 0.6077, Val Acc: 95.00%, Test Loss: 0.5862, Test Acc: 95.00%
+2025-02-11 09:28:11,403 - Epoch [29/500] - Train Loss: 0.6006, Train Acc: 95.42%, Val Loss: 0.6209, Val Acc: 93.33%, Test Loss: 0.6111, Test Acc: 93.33%
+2025-02-11 09:28:11,719 - Epoch [30/500] - Train Loss: 0.6022, Train Acc: 95.21%, Val Loss: 0.6226, Val Acc: 91.67%, Test Loss: 0.6053, Test Acc: 93.33%
+2025-02-11 09:28:12,076 - Epoch [31/500] - Train Loss: 0.5972, Train Acc: 95.83%, Val Loss: 0.6233, Val Acc: 93.33%, Test Loss: 0.6096, Test Acc: 93.33%
+2025-02-11 09:28:12,466 - Epoch [32/500] - Train Loss: 0.5971, Train Acc: 95.62%, Val Loss: 0.6176, Val Acc: 93.33%, Test Loss: 0.5895, Test Acc: 96.67%
+2025-02-11 09:28:12,957 - Epoch [33/500] - Train Loss: 0.5884, Train Acc: 96.67%, Val Loss: 0.6164, Val Acc: 93.33%, Test Loss: 0.5759, Test Acc: 96.67%
+2025-02-11 09:28:13,462 - Epoch [34/500] - Train Loss: 0.5954, Train Acc: 95.62%, Val Loss: 0.6199, Val Acc: 93.33%, Test Loss: 0.5940, Test Acc: 95.00%
+2025-02-11 09:28:14,040 - Epoch [35/500] - Train Loss: 0.5922, Train Acc: 96.04%, Val Loss: 0.6225, Val Acc: 93.33%, Test Loss: 0.5968, Test Acc: 95.00%
+2025-02-11 09:28:14,591 - Epoch [36/500] - Train Loss: 0.5913, Train Acc: 96.46%, Val Loss: 0.6386, Val Acc: 91.67%, Test Loss: 0.5832, Test Acc: 96.67%
+2025-02-11 09:28:14,828 - Epoch [37/500] - Train Loss: 0.5879, Train Acc: 96.25%, Val Loss: 0.6506, Val Acc: 90.00%, Test Loss: 0.6344, Test Acc: 91.67%
+2025-02-11 09:28:15,141 - Epoch [38/500] - Train Loss: 0.5929, Train Acc: 95.83%, Val Loss: 0.6271, Val Acc: 91.67%, Test Loss: 0.6097, Test Acc: 93.33%
+2025-02-11 09:28:15,284 - Epoch [39/500] - Train Loss: 0.5820, Train Acc: 97.08%, Val Loss: 0.6236, Val Acc: 91.67%, Test Loss: 0.5861, Test Acc: 96.67%
+2025-02-11 09:28:15,431 - Epoch [40/500] - Train Loss: 0.5793, Train Acc: 97.50%, Val Loss: 0.6194, Val Acc: 93.33%, Test Loss: 0.5985, Test Acc: 95.00%
+2025-02-11 09:28:15,992 - Epoch [41/500] - Train Loss: 0.5746, Train Acc: 98.12%, Val Loss: 0.6167, Val Acc: 93.33%, Test Loss: 0.5904, Test Acc: 95.00%
+2025-02-11 09:28:16,451 - Epoch [42/500] - Train Loss: 0.5732, Train Acc: 98.12%, Val Loss: 0.6104, Val Acc: 93.33%, Test Loss: 0.5780, Test Acc: 96.67%
+2025-02-11 09:28:16,914 - Epoch [43/500] - Train Loss: 0.5791, Train Acc: 97.71%, Val Loss: 0.6186, Val Acc: 93.33%, Test Loss: 0.5972, Test Acc: 95.00%
+2025-02-11 09:28:17,421 - Epoch [44/500] - Train Loss: 0.5764, Train Acc: 97.92%, Val Loss: 0.6229, Val Acc: 93.33%, Test Loss: 0.6059, Test Acc: 95.00%
+2025-02-11 09:28:17,780 - Epoch [45/500] - Train Loss: 0.5777, Train Acc: 97.71%, Val Loss: 0.6146, Val Acc: 93.33%, Test Loss: 0.5845, Test Acc: 95.00%
+2025-02-11 09:28:18,286 - Epoch [46/500] - Train Loss: 0.5721, Train Acc: 98.33%, Val Loss: 0.6171, Val Acc: 93.33%, Test Loss: 0.5915, Test Acc: 95.00%
+2025-02-11 09:28:18,641 - Epoch [47/500] - Train Loss: 0.5731, Train Acc: 98.12%, Val Loss: 0.6275, Val Acc: 91.67%, Test Loss: 0.6096, Test Acc: 93.33%
+2025-02-11 09:28:19,079 - Epoch [48/500] - Train Loss: 0.5721, Train Acc: 98.33%, Val Loss: 0.6055, Val Acc: 95.00%, Test Loss: 0.5695, Test Acc: 98.33%
+2025-02-11 09:28:19,549 - Epoch [49/500] - Train Loss: 0.5719, Train Acc: 98.12%, Val Loss: 0.6055, Val Acc: 95.00%, Test Loss: 0.5745, Test Acc: 98.33%
+2025-02-11 09:28:20,003 - Epoch [50/500] - Train Loss: 0.5709, Train Acc: 98.33%, Val Loss: 0.6172, Val Acc: 93.33%, Test Loss: 0.5985, Test Acc: 95.00%
+2025-02-11 09:28:20,495 - Epoch [51/500] - Train Loss: 0.5706, Train Acc: 98.33%, Val Loss: 0.6140, Val Acc: 93.33%, Test Loss: 0.5909, Test Acc: 95.00%
+2025-02-11 09:28:20,825 - Epoch [52/500] - Train Loss: 0.5719, Train Acc: 98.12%, Val Loss: 0.6067, Val Acc: 95.00%, Test Loss: 0.5730, Test Acc: 98.33%
+2025-02-11 09:28:21,329 - Epoch [53/500] - Train Loss: 0.5702, Train Acc: 98.33%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.5994, Test Acc: 95.00%
+2025-02-11 09:28:21,760 - Epoch [54/500] - Train Loss: 0.5698, Train Acc: 98.33%, Val Loss: 0.6081, Val Acc: 93.33%, Test Loss: 0.5800, Test Acc: 98.33%
+2025-02-11 09:28:22,146 - Epoch [55/500] - Train Loss: 0.5706, Train Acc: 98.33%, Val Loss: 0.6163, Val Acc: 93.33%, Test Loss: 0.6032, Test Acc: 95.00%
+2025-02-11 09:28:22,596 - Epoch [56/500] - Train Loss: 0.5693, Train Acc: 98.33%, Val Loss: 0.6123, Val Acc: 93.33%, Test Loss: 0.5950, Test Acc: 95.00%
+2025-02-11 09:28:22,936 - Epoch [57/500] - Train Loss: 0.5702, Train Acc: 98.33%, Val Loss: 0.6091, Val Acc: 93.33%, Test Loss: 0.5890, Test Acc: 93.33%
+2025-02-11 09:28:23,311 - Epoch [58/500] - Train Loss: 0.5694, Train Acc: 98.33%, Val Loss: 0.6079, Val Acc: 93.33%, Test Loss: 0.5873, Test Acc: 95.00%
+2025-02-11 09:28:23,662 - Epoch [59/500] - Train Loss: 0.5709, Train Acc: 98.33%, Val Loss: 0.6048, Val Acc: 95.00%, Test Loss: 0.5772, Test Acc: 98.33%
+2025-02-11 09:28:24,068 - Epoch [60/500] - Train Loss: 0.5693, Train Acc: 98.33%, Val Loss: 0.6177, Val Acc: 93.33%, Test Loss: 0.6067, Test Acc: 95.00%
+2025-02-11 09:28:24,530 - Epoch [61/500] - Train Loss: 0.5703, Train Acc: 98.33%, Val Loss: 0.6091, Val Acc: 93.33%, Test Loss: 0.5864, Test Acc: 95.00%
+2025-02-11 09:28:24,917 - Epoch [62/500] - Train Loss: 0.5712, Train Acc: 98.33%, Val Loss: 0.6213, Val Acc: 93.33%, Test Loss: 0.6064, Test Acc: 95.00%
+2025-02-11 09:28:25,144 - Epoch [63/500] - Train Loss: 0.5726, Train Acc: 98.12%, Val Loss: 0.6253, Val Acc: 93.33%, Test Loss: 0.6155, Test Acc: 93.33%
+2025-02-11 09:28:25,428 - Epoch [64/500] - Train Loss: 0.5721, Train Acc: 97.92%, Val Loss: 0.6228, Val Acc: 93.33%, Test Loss: 0.6156, Test Acc: 93.33%
+2025-02-11 09:28:25,887 - Epoch [65/500] - Train Loss: 0.5711, Train Acc: 98.33%, Val Loss: 0.6120, Val Acc: 93.33%, Test Loss: 0.5854, Test Acc: 96.67%
+2025-02-11 09:28:26,305 - Epoch [66/500] - Train Loss: 0.5782, Train Acc: 97.29%, Val Loss: 0.6068, Val Acc: 95.00%, Test Loss: 0.5679, Test Acc: 98.33%
+2025-02-11 09:28:26,832 - Epoch [67/500] - Train Loss: 0.5742, Train Acc: 97.71%, Val Loss: 0.6032, Val Acc: 95.00%, Test Loss: 0.5723, Test Acc: 98.33%
+2025-02-11 09:28:27,203 - Epoch [68/500] - Train Loss: 0.5706, Train Acc: 98.12%, Val Loss: 0.6186, Val Acc: 93.33%, Test Loss: 0.6079, Test Acc: 95.00%
+2025-02-11 09:28:27,689 - Epoch [69/500] - Train Loss: 0.5681, Train Acc: 98.54%, Val Loss: 0.6142, Val Acc: 93.33%, Test Loss: 0.5673, Test Acc: 98.33%
+2025-02-11 09:28:28,154 - Epoch [70/500] - Train Loss: 0.5812, Train Acc: 97.29%, Val Loss: 0.6079, Val Acc: 95.00%, Test Loss: 0.5676, Test Acc: 98.33%
+2025-02-11 09:28:28,487 - Epoch [71/500] - Train Loss: 0.5758, Train Acc: 97.50%, Val Loss: 0.6137, Val Acc: 93.33%, Test Loss: 0.5678, Test Acc: 98.33%
+2025-02-11 09:28:28,856 - Epoch [72/500] - Train Loss: 0.5766, Train Acc: 97.29%, Val Loss: 0.6015, Val Acc: 95.00%, Test Loss: 0.5807, Test Acc: 96.67%
+2025-02-11 09:28:29,183 - Epoch [73/500] - Train Loss: 0.5743, Train Acc: 97.71%, Val Loss: 0.6669, Val Acc: 88.33%, Test Loss: 0.6225, Test Acc: 93.33%
+2025-02-11 09:28:29,656 - Epoch [74/500] - Train Loss: 0.5785, Train Acc: 97.29%, Val Loss: 0.6622, Val Acc: 88.33%, Test Loss: 0.6294, Test Acc: 93.33%
+2025-02-11 09:28:30,135 - Epoch [75/500] - Train Loss: 0.5772, Train Acc: 97.50%, Val Loss: 0.6265, Val Acc: 93.33%, Test Loss: 0.6051, Test Acc: 95.00%
+2025-02-11 09:28:30,647 - Epoch [76/500] - Train Loss: 0.5725, Train Acc: 98.12%, Val Loss: 0.6180, Val Acc: 93.33%, Test Loss: 0.5704, Test Acc: 98.33%
+2025-02-11 09:28:31,037 - Epoch [77/500] - Train Loss: 0.5745, Train Acc: 97.71%, Val Loss: 0.6397, Val Acc: 90.00%, Test Loss: 0.6074, Test Acc: 95.00%
+2025-02-11 09:28:31,511 - Epoch [78/500] - Train Loss: 0.5695, Train Acc: 98.12%, Val Loss: 0.6166, Val Acc: 93.33%, Test Loss: 0.6060, Test Acc: 95.00%
+2025-02-11 09:28:31,948 - Epoch [79/500] - Train Loss: 0.5698, Train Acc: 98.12%, Val Loss: 0.6158, Val Acc: 93.33%, Test Loss: 0.5814, Test Acc: 96.67%
+2025-02-11 09:28:32,486 - Epoch [80/500] - Train Loss: 0.5704, Train Acc: 98.12%, Val Loss: 0.6164, Val Acc: 93.33%, Test Loss: 0.6040, Test Acc: 95.00%
+2025-02-11 09:28:32,877 - Epoch [81/500] - Train Loss: 0.5687, Train Acc: 98.33%, Val Loss: 0.6165, Val Acc: 93.33%, Test Loss: 0.6037, Test Acc: 95.00%
+2025-02-11 09:28:33,366 - Epoch [82/500] - Train Loss: 0.5693, Train Acc: 98.33%, Val Loss: 0.6130, Val Acc: 93.33%, Test Loss: 0.5800, Test Acc: 96.67%
+2025-02-11 09:28:33,805 - Epoch [83/500] - Train Loss: 0.5692, Train Acc: 98.33%, Val Loss: 0.6164, Val Acc: 93.33%, Test Loss: 0.6041, Test Acc: 95.00%
+2025-02-11 09:28:34,194 - Epoch [84/500] - Train Loss: 0.5698, Train Acc: 98.33%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6050, Test Acc: 93.33%
+2025-02-11 09:28:34,570 - Epoch [85/500] - Train Loss: 0.5734, Train Acc: 97.71%, Val Loss: 0.6167, Val Acc: 93.33%, Test Loss: 0.6039, Test Acc: 95.00%
+2025-02-11 09:28:34,970 - Epoch [86/500] - Train Loss: 0.5718, Train Acc: 97.92%, Val Loss: 0.6065, Val Acc: 95.00%, Test Loss: 0.5826, Test Acc: 96.67%
+2025-02-11 09:28:35,197 - Epoch [87/500] - Train Loss: 0.5684, Train Acc: 98.33%, Val Loss: 0.6159, Val Acc: 93.33%, Test Loss: 0.6029, Test Acc: 93.33%
+2025-02-11 09:28:35,339 - Epoch [88/500] - Train Loss: 0.5695, Train Acc: 98.12%, Val Loss: 0.6376, Val Acc: 90.00%, Test Loss: 0.6174, Test Acc: 93.33%
+2025-02-11 09:28:35,645 - Epoch [89/500] - Train Loss: 0.5678, Train Acc: 98.54%, Val Loss: 0.6125, Val Acc: 93.33%, Test Loss: 0.5692, Test Acc: 98.33%
+2025-02-11 09:28:36,137 - Epoch [90/500] - Train Loss: 0.5672, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6104, Test Acc: 93.33%
+2025-02-11 09:28:36,560 - Epoch [91/500] - Train Loss: 0.5683, Train Acc: 98.33%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.5987, Test Acc: 95.00%
+2025-02-11 09:28:36,783 - Epoch [92/500] - Train Loss: 0.5671, Train Acc: 98.54%, Val Loss: 0.6164, Val Acc: 93.33%, Test Loss: 0.6050, Test Acc: 95.00%
+2025-02-11 09:28:37,023 - Epoch [93/500] - Train Loss: 0.5669, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6109, Test Acc: 93.33%
+2025-02-11 09:28:37,563 - Epoch [94/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6048, Test Acc: 93.33%
+2025-02-11 09:28:37,970 - Epoch [95/500] - Train Loss: 0.5664, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6085, Test Acc: 93.33%
+2025-02-11 09:28:38,322 - Epoch [96/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6099, Test Acc: 93.33%
+2025-02-11 09:28:38,472 - Epoch [97/500] - Train Loss: 0.5666, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6072, Test Acc: 93.33%
+2025-02-11 09:28:38,743 - Epoch [98/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6163, Val Acc: 93.33%, Test Loss: 0.6096, Test Acc: 93.33%
+2025-02-11 09:28:39,217 - Epoch [99/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6111, Test Acc: 93.33%
+2025-02-11 09:28:39,594 - Epoch [100/500] - Train Loss: 0.5664, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6104, Test Acc: 93.33%
+2025-02-11 09:28:40,156 - Epoch [101/500] - Train Loss: 0.5667, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6073, Test Acc: 93.33%
+2025-02-11 09:28:40,304 - Epoch [102/500] - Train Loss: 0.5664, Train Acc: 98.54%, Val Loss: 0.6160, Val Acc: 93.33%, Test Loss: 0.6063, Test Acc: 93.33%
+2025-02-11 09:28:40,613 - Epoch [103/500] - Train Loss: 0.5664, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6107, Test Acc: 93.33%
+2025-02-11 09:28:40,731 - Epoch [104/500] - Train Loss: 0.5661, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6091, Test Acc: 93.33%
+2025-02-11 09:28:41,275 - Epoch [105/500] - Train Loss: 0.5666, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6113, Test Acc: 93.33%
+2025-02-11 09:28:41,787 - Epoch [106/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6115, Test Acc: 93.33%
+2025-02-11 09:28:41,989 - Epoch [107/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6088, Test Acc: 93.33%
+2025-02-11 09:28:42,299 - Epoch [108/500] - Train Loss: 0.5668, Train Acc: 98.54%, Val Loss: 0.6160, Val Acc: 93.33%, Test Loss: 0.6051, Test Acc: 93.33%
+2025-02-11 09:28:42,723 - Epoch [109/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6084, Test Acc: 93.33%
+2025-02-11 09:28:43,247 - Epoch [110/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6071, Test Acc: 93.33%
+2025-02-11 09:28:43,347 - Epoch [111/500] - Train Loss: 0.5661, Train Acc: 98.54%, Val Loss: 0.6159, Val Acc: 93.33%, Test Loss: 0.6008, Test Acc: 93.33%
+2025-02-11 09:28:43,832 - Epoch [112/500] - Train Loss: 0.5660, Train Acc: 98.54%, Val Loss: 0.6157, Val Acc: 93.33%, Test Loss: 0.5961, Test Acc: 95.00%
+2025-02-11 09:28:44,163 - Epoch [113/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6160, Val Acc: 93.33%, Test Loss: 0.6051, Test Acc: 93.33%
+2025-02-11 09:28:44,662 - Epoch [114/500] - Train Loss: 0.5666, Train Acc: 98.54%, Val Loss: 0.6164, Val Acc: 93.33%, Test Loss: 0.6112, Test Acc: 93.33%
+2025-02-11 09:28:45,086 - Epoch [115/500] - Train Loss: 0.5684, Train Acc: 98.12%, Val Loss: 0.6178, Val Acc: 93.33%, Test Loss: 0.6060, Test Acc: 95.00%
+2025-02-11 09:28:45,410 - Epoch [116/500] - Train Loss: 0.5672, Train Acc: 98.54%, Val Loss: 0.6155, Val Acc: 93.33%, Test Loss: 0.5865, Test Acc: 96.67%
+2025-02-11 09:28:45,839 - Epoch [117/500] - Train Loss: 0.5666, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6107, Test Acc: 93.33%
+2025-02-11 09:28:46,613 - Epoch [118/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6113, Test Acc: 93.33%
+2025-02-11 09:28:47,005 - Epoch [119/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6129, Test Acc: 93.33%
+2025-02-11 09:28:47,459 - Epoch [120/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6038, Test Acc: 93.33%
+2025-02-11 09:28:48,077 - Epoch [121/500] - Train Loss: 0.5663, Train Acc: 98.54%, Val Loss: 0.6161, Val Acc: 93.33%, Test Loss: 0.6022, Test Acc: 93.33%
+2025-02-11 09:28:48,698 - Epoch [122/500] - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6089, Test Acc: 93.33%
+2025-02-11 09:28:48,700 - Early stopping triggered at epoch 122
+2025-02-11 09:28:48,700 - Training completed. Best model saved at /home/user/torch_shrimp/until-tools/mod/k-mer/es/batch1/best_model.pth
+2025-02-11 09:28:48,701 - Latest model saved at /home/user/torch_shrimp/until-tools/mod/k-mer/es/batch0/latest_model.pth
+2025-02-11 09:28:48,723 - Train Loss: 0.5662, Train Acc: 98.54%, Val Loss: 0.6162, Val Acc: 93.33%, Test Loss: 0.6089, Test Acc: 96.67%
+2025-02-11 09:28:48,724 - Final Classification Report:
+2025-02-11 09:28:48,724 -               precision    recall  f1-score   support
+
+           0     0.9231    0.9231    0.9231        13
+           1     1.0000    1.0000    1.0000        27
+           2     0.9500    0.9500    0.9500        20
+
+    accuracy                         0.9667        60
+   macro avg     0.9577    0.9577    0.9577        60
+weighted avg     0.9667    0.9667    0.9667        60
+
+2025-02-11 09:28:55,520 - No such comm target registered: jupyter.widget.control
+2025-02-11 09:28:55,521 - No such comm: 9ece80d3-e8d2-4fc3-b994-3661ef2da737
