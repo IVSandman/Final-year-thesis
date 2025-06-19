@@ -5,8 +5,8 @@ This is my senior year thesis at **King Mongkut's University of Technology North
 There are three classes:healthy, infected with White spot disease (WSSV), and infected with Acute Hepatopancreatic Necrosis Disease (AHPND). These are the two crucial virus that imapcted Thailand's shrimp farmimg industry.
 
 ## Datasets and Files
+Full project is in https://huggingface.co/SandmanIV/Thesis_ShrimpAnalysis/tree/main
 Datasets are retrieved by the NCBI databank, and all the details are in METADATA.xlsx
-,Best model and other files https://huggingface.co/SandmanIV/Thesis_ShrimpAnalysis/tree/main
 
 ## Abstract 
 Shrimp farming is a vital industry in Thailand, contributing significantly to the nation's 
